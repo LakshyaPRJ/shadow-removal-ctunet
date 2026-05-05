@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# Large model files — host separately (see README)
+checkpoints/best_model.pth
+
+# OS
+.DS_Store
+Thumbs.db

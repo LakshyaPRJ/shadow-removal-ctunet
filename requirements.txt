@@ -1,0 +1,7 @@
+torch
+torchvision
+einops
+flask
+pillow
+gdown
+os
